@@ -1,6 +1,15 @@
 # admob_ex
 
-A new Flutter project.
+It's Project about the Flutter Native ad Display with the Provider State
+
+Problem i have to delay in displaying ads on screen.
+it's take much time to load ads and after display ,it's very annoying as user-interface that blink and loader ,i not want 
+
+Here the Video of what happenings with me , if any one know the solution please solve and contact me, THANKS
+
+https://github.com/woxxin20/admob_load/assets/164137134/78b800dc-bf2a-4255-adcb-39ef25c81472
+
+
 
 ## Getting Started
 
